@@ -1,6 +1,6 @@
 # CGT Calculator
 
-CGT Calculator is a privacy-focused UK Capital Gains Tax calculator that automatically converts broker transaction exports into HMRC-compliant tax reports.
+CGT Calculator is a privacy-focused UK Capital Gains Tax calculator that automatically converts broker transaction exports into tax reports based on HMRC rules.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Visit [cgtcalculator.io](https://cgtcalculator.io) to upload your broker exports
 
 ## Features
 
-- **HMRC-compliant** — Same Day Rule, Bed & Breakfast Rule (30-day), and Section 104 pooling
+- **HMRC rules** — Same Day Rule, Bed & Breakfast Rule (30-day), and Section 104 pooling
 - **Multi-broker support** — Charles Schwab, Interactive Brokers, Trading 212, Freetrade, and Morgan Stanley
 - **Options trading** — 60+ option strategies including spreads, condors, straddles, and rolling positions
 - **Offshore funds (ERI)** — 550+ pre-bundled entries for Vanguard, iShares, and more
