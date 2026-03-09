@@ -1,4 +1,4 @@
-# CGT Calculator
+# CGT Calculator 🇬🇧
 
 CGT Calculator is a privacy-focused UK Capital Gains Tax calculator that automatically converts broker transaction exports into tax reports based on HMRC rules.
 
