@@ -11,7 +11,7 @@ Visit [cgtcalculator.io](https://cgtcalculator.io) to upload your broker exports
 - **HMRC rules** — Same Day Rule, Bed & Breakfast Rule (30-day), and Section 104 pooling
 - **Multi-broker support** — Charles Schwab, Interactive Brokers, Trading 212, Freetrade, and Morgan Stanley
 - **Options trading** — 60+ option strategies including spreads, condors, straddles, and rolling positions
-- **Offshore funds (ERI)** — 550+ pre-bundled entries for Vanguard, iShares, and more
+- **Offshore funds (ERI)** — 3,500+ pre-bundled entries for Vanguard, iShares, and more
 - **Corporate actions** — Stock splits, mergers, spin-offs, and ticker renames
 - **Multi-currency** — Automatic FX conversion to GBP using historical rates
 - **Privacy-first** — All calculations run in your browser, your data never leaves your device
